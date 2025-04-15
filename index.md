@@ -3,6 +3,4 @@ Hello and welcome to this blog. My name is Francis Weber, and I am a 4th Year Me
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
