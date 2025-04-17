@@ -2,7 +2,7 @@
 
 Early on in this course, I learned that applying Gaussian blur helps a bunch with canny edge detection. The difference in the results is quite dramatic, as you can see from the images below:
 
-![](..//images/BlurVsNoBlur.png "Example of Guassian Blur Effect on Canny Edge")
+![](/images/BlurVsNoBlur.png "Example of Guassian Blur Effect on Canny Edge")
 
 ## How it works
 
