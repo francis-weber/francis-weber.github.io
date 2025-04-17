@@ -2,5 +2,5 @@ Hello and welcome to this blog. My name is Francis Weber, and I am a 4th Year Me
 
 
 ![Image of fast.ai logo](images/logo.png)
-
+![Image of myself](images/Me.png)
 
